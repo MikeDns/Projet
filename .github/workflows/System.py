@@ -1,4 +1,5 @@
-#Code for resolving systwms of equations
+#Code for resolving systems of equations
+
 import numpy as np
 
 print("Option=1: Système de 2 équations à 2 inconnues; Option=2: Système de 3 équations à 3 inconnues")
